@@ -1,6 +1,6 @@
 # Smart Semicolon
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-code/v/extension/smartsemicolon.smart-semicolon?color=blue&label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=smartsemicolon.smart-semicolon)
+[![VS Code Marketplace]([https://img.shields.io/visual-studio-code/v/extension/smartsemicolon.smart-semicolon?color=blue&label=VS%20Code%20Marketplace](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge))](https://marketplace.visualstudio.com/items?itemName=smartsemicolon.smart-semicolon)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GitHub Issues](https://img.shields.io/github/issues/smartsemicolon/smart-semicolon)](https://github.com/smartsemicolon/smart-semicolon/issues)
