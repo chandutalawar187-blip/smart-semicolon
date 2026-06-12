@@ -3,8 +3,8 @@
 [![VS Code Marketplace](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=smartsemicolon.smart-semicolon)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![GitHub Issues](https://img.shields.io/github/issues/smartsemicolon/smart-semicolon)](https://github.com/smartsemicolon/smart-semicolon/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/smartsemicolon/smart-semicolon)](https://github.com/smartsemicolon/smart-semicolon)
+[![GitHub Issues](https://img.shields.io/github/issues/smartsemicolon/smart-semicolon)]([https://github.com/smartsemicolon/smart-semicolon/issues](https://github.com/chandutalawar187-blip/smart-semicolon.git)/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/smartsemicolon/smart-semicolon)]([https://github.com/smartsemicolon/smart-semicolon](https://github.com/chandutalawar187-blip/smart-semicolon.git))
 
 A lightweight VS Code extension that intelligently appends semicolons and advances to the next line using a custom keyboard shortcut, without interfering with normal semicolon typing.
 
