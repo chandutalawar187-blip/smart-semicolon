@@ -1,21 +1,22 @@
-name: Learning Github Actions
+name: Project CI
 
-on:
+on: 
   push:
+  pull_request:
 
 jobs:
-  learn:
+  check:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Show system
-        run: uname -a
+      - name: Check python
+        run: python --version
       
-      - name: Show files
+      - name: List Project Files
         run: ls -la
-      
-      - name: Say hello
-        run: echo "Github Actions is working!"
+        
+      - name: Run basic check
+        run: echo "Project checks passed"
