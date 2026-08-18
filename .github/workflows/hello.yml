@@ -1,0 +1,21 @@
+name: Learning Github Actions
+
+on:
+  push:
+
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Show system
+        run: uname -a
+      
+      - name: Show files
+        run: ls -la
+      
+      - name: Say hello
+        run: echo "Github Actions is working!"
